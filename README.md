@@ -7,6 +7,7 @@ I'm using this repo to keep copies of the code I write for each of the tasks.
 
 ## Tasks
 - [Level 1: re-id](re-id/)
+- [Level 2: dont-get-volunteered](dont-get-volunteered/)
 - Level 2
 - Level 3
 - Level 4

@@ -9,6 +9,7 @@ I'm using this repo to keep copies of the code I write for each of the tasks.
 - [Level 1: re-id](re-id/)
 - [Level 2: don't-get-volunteered](dont-get-volunteered/)
 - [Level 2: elevator-maintenance](elevator-maintenance/)
+- [Level 3: prepare-the-bunnies-escape](prepare-the-bunnies-escape/)
 - Level 3
 - Level 4
 - Level 5
